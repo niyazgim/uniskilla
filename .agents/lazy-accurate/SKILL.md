@@ -26,8 +26,8 @@ Write all paths in bash commands inside commas please. If there're no files with
 
 ### Important thing about Markdown code
 
-Replace the opening triple backticks and language name with: ==CODE==[language_name]
-Replace the closing triple backticks with: ==CODE==
+Replace the opening triple backticks and language name with: ---[language_name]
+Replace the closing triple backticks with: ---
 
 This will allow me to easily convert them back later using Find and Replace (Ctrl + H).
 
